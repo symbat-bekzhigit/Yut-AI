@@ -1,7 +1,7 @@
 # Yut-AI
 
 ## Algorithm Description:
-Our ETyut algorithm employs a Q-learning decision-making strategy to evaluate potential moves in the game of YutNori game (Korean traditional baord game). The primary focus of our algorithm is to maximize the expected cumulative reward for each move by updating a Q-table based on observed outcomes. It balances exploration and exploitation to assess and select optimal actions. Key enhancements include optimizing hyperparameters like epsilon, gamma, and alpha decay values to achieve the best performance, as well as maintaining a Q-table to store Q-values for various state-action pairs.
+Our ETyut algorithm employs a Q-learning decision-making strategy to evaluate potential moves in the game of YutNori game (Korean traditional board game). The primary focus of our algorithm is to maximize the expected cumulative reward for each move by updating a Q-table based on observed outcomes. It balances exploration and exploitation to assess and select optimal actions. Key enhancements include optimizing hyperparameters like epsilon, gamma, and alpha decay values to achieve the best performance, as well as maintaining a Q-table to store Q-values for various state-action pairs.
 
 <img src="bin/pic1.png" alt="Alt Text" width="400" height="300">
 
