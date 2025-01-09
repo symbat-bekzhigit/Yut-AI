@@ -3,7 +3,7 @@
 ## Algorithm Description:
 Our ETyut algorithm employs a Q-learning decision-making strategy to evaluate potential moves in the game of YutNori game (Korean traditional baord game). The primary focus of our algorithm is to maximize the expected cumulative reward for each move by updating a Q-table based on observed outcomes. It balances exploration and exploitation to assess and select optimal actions. Key enhancements include optimizing hyperparameters like epsilon, gamma, and alpha decay values to achieve the best performance, as well as maintaining a Q-table to store Q-values for various state-action pairs.
 
-![](pic1.png)
+![](bin/pic1.png|width=100)
 
 ## Key Components:
 **1. Initialization and Reset:** The reset method initializes the algorithm for each game round, resetting internal states and allowing for an optional random seed for variability in simulations. It also randomizes the Q-table to enhance variability.  
